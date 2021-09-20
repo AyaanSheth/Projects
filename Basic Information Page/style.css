@@ -1,0 +1,25 @@
+*{
+    background-color: #FFF0F5;
+}
+
+header {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 10px;
+}
+
+header a {
+    color: rgb(160, 75, 75);
+    font-style: bold;
+}
+img {
+    width: 100%;
+    height: auto;
+  }
+
+p {
+    font-size: larger;
+}
+
+h1 {
+    font-size: x-large;
+}
