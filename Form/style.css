@@ -1,0 +1,40 @@
+* {
+    font-family: cursive;
+    background-color:#F0F8FF ;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+button {
+    background-color: blue;
+    font-size: x-large;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+button:hover {
+    background-color:aquamarine;
+}
+
+img {
+    width: 20%;
+    height: auto;
+  }
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.how {
+    padding-top: 2rem;
+}
+
+.picture {
+    padding-top: 2rem;
+}
+
+
