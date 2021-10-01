@@ -1,0 +1,85 @@
+h1 {
+    padding-bottom: 60px;
+}
+
+.rectangle {
+  height: 450px;
+  width: 400px;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  padding-top: 100px;
+}
+
+.prizm {
+  border-bottom: 45px solid #8A8AFF;
+	border-left: 33px solid transparent;
+	border-right: solid transparent;
+	width: 305px;
+  transform: rotate(240deg);
+  margin-left: 430px;
+  margin-right: auto;
+}
+
+.new-prizm {
+  border-bottom: 45px solid #8A8AFF;
+	border-left: 8px solid transparent;
+	border-right: 2px solid transparent;
+	width: 382px;
+  transform: rotate(-240deg);
+  margin-left: 585px;
+  margin-right: auto;
+  
+}
+
+.small-rectangle {
+  height: 20px;
+  width: 100px;
+  padding-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  border-radius: 20px;
+}
+p {
+    color: white;
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+ul {
+  color: white;
+  font-size: 15px;
+  padding-top: 0px;
+  text-align: left;
+}
+
+.smaller-rectangle {
+    background-color: red;
+    height: 310px;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.image {
+    width: 100%;
+  height: auto;
+  background-color:red;
+}
+
+html {
+  background-color:#CBC3E3 ;
+}
+
+img{
+  max-width: 30px;
+  padding-left: 5px;
+}
+
+.example::-webkit-scrollbar {
+  display: none;
+}
