@@ -1,0 +1,287 @@
+*{
+    padding-top: 2px;
+}
+
+
+.container {
+    float: right;
+}
+
+
+p {
+    display:inline;
+    word-wrap: break-word;
+    margin-right: 20px;
+    font-size: 15px;
+}
+
+a {
+    color: black;
+}
+
+header img {
+    width: 28px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.apps{
+    width: 20px;
+}
+
+.user-icon{
+    width: 30px;
+}
+
+.google {
+    width: 323px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    cursor: pointer;
+}
+
+.search {
+    height:20px;
+    position:relative;
+    top:5px;
+    left:10px;
+}
+
+.mic {
+    height:20px;
+    position:relative;
+    top:5px;
+    left:10px;
+}
+
+.real{
+    width:600px;
+    border-radius:30px;
+    border:1px solid #dcdcdc;
+    margin: 0 auto;
+}
+
+.input {
+    height:40px;
+    border:none;
+    width:500px;
+    font-size:16px;
+    outline: none;
+    padding-left: 20px;
+}
+
+.real:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+
+.real:focus-within{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+    outline:none;
+}
+
+.buttons {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    background-color: #F5F5F5;
+    border: none;
+    color:#707070;
+    font-size: 15px;
+    padding: 10px 20px;
+    margin: 7px;
+    border-radius:10px;
+    outline: none;
+}
+
+.button:hover {
+    border: 1px solid #c8c8c8;
+    padding: 9px 19px;
+    color:#808080;
+    cursor: pointer;
+}
+
+.button:focus{
+    border:1px solid #4885ed;
+    padding: 9px 19px;
+}
+
+.bottom_navbar{
+	width: 100%;
+	height: 40px;
+	background-color: #F2F2F2;
+	margin: 0px;
+	padding: 0px;
+	
+
+	position: fixed;
+
+	bottom: 0px;
+	border-top:1px solid #E4E4E4;
+}
+
+.advertising{
+	height: 40px;
+	width: 100px;
+	position: relative;
+	top: 12px;
+	left: 30px;
+}
+.advertising>a{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.advertising>a:visited{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.advertising>a:hover{
+	color: #666;
+	font-family: Arial;
+	text-decoration: underline;
+	font-size: small;
+}
+
+.business{
+	height: 15px;
+	width: 80px;
+	position: absolute;
+	left: 125px;
+	bottom: 13px;
+
+}
+.business>a{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.business>a:visited{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.business>a:hover{
+	color: #666;
+	font-family: Arial;
+	text-decoration: underline;
+	font-size: small;
+}
+
+.about{
+	height: 15px;
+	width: 80px;
+	position: absolute;
+	left: 210px;
+	bottom: 13px;
+
+}
+.about>a{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.about>a:visited{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.about>a:hover{
+	color: #666;
+	font-family: Arial;
+	text-decoration: underline;
+	font-size: small;
+}
+
+.privacy{
+	height: 15px;
+	width: 80px;
+	position: absolute;
+	right: 140px;
+	bottom: 13px;
+
+}
+.privacy>a{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.privacy>a:visited{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.privacy>a:hover{
+	color: #666;
+	font-family: Arial;
+	text-decoration: underline;
+	font-size: small;
+}
+
+.terms{
+	height: 15px;
+	width: 80px;
+	position: absolute;
+	right: 65px;
+	bottom: 13px;
+
+}
+.terms>a{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.terms>a:visited{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.terms>a:hover{
+	color: #666;
+	font-family: Arial;
+	text-decoration: underline;
+	font-size: small;
+}
+
+.settings{
+	height: 15px;
+	width: 80px;
+	position: absolute;
+	right: 1px;
+	bottom: 13px;
+
+}
+.settings>a{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.settings>a:visited{
+	color: #666;
+	font-family: Arial;
+	text-decoration: none;
+	font-size: small;
+}
+.settings>a:hover{
+	color: #666;
+	font-family: Arial;
+	text-decoration: underline;
+	font-size: small;
+}
